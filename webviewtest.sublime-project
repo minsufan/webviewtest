@@ -1,0 +1,47 @@
+{
+    "folders": [
+        {
+            "file_include_patterns": [
+				"*.cs",
+				"*.js",
+				"*.txt",
+				"*.shader",
+				"*.json"
+            ],
+            "path": "/Users/sufan.min/Desktop/webviewtest/Assets/Editor/"
+        },
+        {
+            "file_include_patterns": [
+				"*.cs",
+				"*.js",
+				"*.txt",
+				"*.shader",
+				"*.json"
+            ],
+            "path": "/Users/sufan.min/Desktop/webviewtest/Assets/Scripts/"
+        },
+        {
+            "file_include_patterns": [
+				"*.cs",
+				"*.js",
+				"*.txt",
+				"*.shader",
+				"*.json"
+            ],
+            "path": "/Users/sufan.min/Desktop/webviewtest/Assets/NGUI/"
+        }
+    ],
+
+    "settings": {
+        "tab_size": 4,
+        "translate_tabs_to_spaces": true,
+        "default_encoding": "UTF-8 with BOM",
+        "default_line_ending": "windows",
+        "completesharp_assemblies": [
+			"/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll",
+			"/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll",
+			"/Users/sufan.min/Desktop/webviewtest/Assets/../Library/ScriptAssemblies/Assembly-CSharp.dll",
+			"/Users/sufan.min/Desktop/webviewtest/Assets/../Library/ScriptAssemblies/Assembly-CSharp-Editor.dll"
+        ]
+    }
+}

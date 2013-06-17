@@ -1,0 +1,508 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Obje",
+				"ObjectBase"
+			],
+			[
+				"Ob",
+				"ObjectBase"
+			],
+			[
+				"t",
+				"transform"
+			],
+			[
+				"Ac",
+				"ActionList"
+			],
+			[
+				"Get",
+				"GetComponent<T>()	T"
+			],
+			[
+				"Ha",
+				"Hangup()	Void"
+			],
+			[
+				"p",
+				"position	Vector3"
+			],
+			[
+				"De",
+				"DestoryObj()	Void"
+			],
+			[
+				"Set",
+				"SetStandby()	Void"
+			],
+			[
+				"Vect",
+				"Vector3"
+			],
+			[
+				"L",
+				"LookAt(Transform, Vector3)	Void"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"ro",
+				"rigidbody	Rigidbody"
+			],
+			[
+				"set",
+				"SetStart()	Void"
+			],
+			[
+				"m",
+				"mInst"
+			],
+			[
+				"Han",
+				"Hangup"
+			],
+			[
+				"Mo",
+				"MoveOneStep(Direction)	Void"
+			],
+			[
+				"M",
+				"MoveOneStep(Direction)	Void"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Unity3D Build System/Unity.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 620.0
+	},
+	"console":
+	{
+		"height": 174.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/Enemy.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/SkillStatus.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ThConfig.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/EnemyAI/AI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/SceneLoader.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Gate/Gate.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Player/PlayerController.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/DungeonDefine.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Avatar/ShaderCtrl.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/ObjectGenerator.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/CameraController.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/GameController.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Stair/StairAI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/PathFinder.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/Navigation/NodeQueue.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/Navigation/PathNode.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/EnemyAI/TrapAI/NormalTrap.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/EnemyAI/EnemyAIBase.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/TreasureBox/TreasureBox.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Player/NewPlayer.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Block/Block.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/Navigation/Node.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/ObjectBase.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Component/MoveComponent.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/MapModule.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/NewTurnController.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Component/CharacterAttack.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/ObjectMaster.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/PannelObject.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Component/MapObject.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/ObjectModule.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Load/DungeonFloorDataResponse.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/ThDungeonPage.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Load/Net.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Load/Generator.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/Floor.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/FloorGenerator.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/FloorGroup.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/FloorGroupLocator.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/FloorInitializer.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/FloorInitializerNew.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/FloorParts.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/FloorPolygonGenerator.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/TiledTerrain.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/API/Response/DungeonFloorDataResponse.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/API/Request/DungeonStartAPI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/API/DataRes/DungeonStartDataRes.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/API/DataReq/DungeonStartDataReq.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/EnemyModel.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/ObjectStatus.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Stair/Stair.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Block/BlockModel.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Trap/Trap.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Player/PlayerPathDrawer.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/ObjectService.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/EnemyAI/TreasureDefender1.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/UI/dungeonMain/StatusPanelUI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Player/TestTouch.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Avatar/EffectTiming.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/MapModule/Panel.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/StaticPrefabList.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Equipment/EquipmentTopPage.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/PvP/PvpBattlePage.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/PageRoot.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Range.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/DebugUI/DebugMenuSW.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/DebugUI/DebugCurve.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/DebugUI/DebugCameraDistance.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/DebugUI/DebugCameraAngle.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Component/PlayerController.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/CharacterCtrl/CharacterAction.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/CharacterCtrl/NewCharacterAction.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Debug/DungeonDebug.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Player/PlayerModel.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Component/AI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Calc.cs",
+		"/Users/sufan.min/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Direction.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/PageLoader.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/EnemyAI/AIDefine.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Entry.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/CharacterCtrl/Mecanimer.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/CharacterCtrl/NewCharacterModel.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/SunriseAsset/Scripts/Avatar/Avatar3D.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/CharacterCtrl/MecanimUnility.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/CharacterCtrl/CharacterModel.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Config.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Player/PlayerStatus.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Debug/DebugPlayerStatus.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Component/TurnCtrlComponent.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/GridPoint.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/AI/AIDefine.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/NewEnemy.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/AI/AI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/AI/EnemyAI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/AI/EnemyAIDefine.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Player/Player.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Player/PlayerAI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/World/UI/StatusPanelUI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Debug/AllocationStats.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/World/UI/TownPanelUI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/World/UI/MapButtonUI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/UI/BackWindow.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/World/WorldMainPage.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/EquipmentConfig.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/OopartsConfig.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Editor/CreatePanel.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/PvP/Game/SkillActionFactory.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/PvP/Game/Data/SkillData.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/PvP/Game/AttackAction.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/PvP/Game/SpecialAction.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/UI/Header.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/World/UI/DungeonButtonUI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/World/UI/FlagButtonUI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/APIConfig.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/EquimentConfig.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/ResourceManager.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/PlayerData.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Player/PlayerData.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/TurnController.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Game/PlayerCommon.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/PvP/Game/Character.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/World/UI/WorldPanelUI.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/ResourceTextManager.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/PvP/UI/RivalPopup.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Common/Connection/APIRequest.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/Component/StateMachine.cs",
+		"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Game/ObjectModule/Object/Enemy/TreasureDefender/TreasureDefender2.cs"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"/Users/sufan.min/Desktop/sunrise/SunriseApp/Assets/Scripts/Dungeon/Debug",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"setModelHide",
+			"GetEnemyListByPartsId",
+			"phase_ready_action",
+			"phase_action",
+			"UpdateObstaclePos",
+			"GetNode",
+			"CheckObstacleType",
+			"特定ノードの移動可能な隣接ノードリストを取得する：静的障害物がある場合のみ移動不可",
+			"phase_ready_action",
+			"DestoryObj",
+			"MapModule",
+			"common_start_move",
+			"DelObstacle",
+			"DestoryObj",
+			"checkStartMove",
+			"StartMove",
+			"checkStartMove",
+			"ObstacleType",
+			"PathFinder",
+			"Path",
+			"checkStartMove",
+			"phase_ready_move",
+			"CheckInit",
+			"mInit",
+			"mMapObj",
+			"GetTurnCtrlComponent",
+			"IsReadyDestroy",
+			"Dead",
+			"AIManager",
+			"RequireNextFloor",
+			"IsLastFloor",
+			"PanelObject",
+			"initPathfinder",
+			"Pathfinder",
+			"Search",
+			"pathEffect",
+			"ShaderCtrl",
+			"MeshRenderer",
+			"Hatena",
+			"BlockType",
+			"BlockPrefabs",
+			"is_same_cell_target",
+			"ObjectPath",
+			"setPlayer",
+			"DisposeCorpse",
+			"deleteObject",
+			"LaunchTrap",
+			"MUTEKI",
+			"SetTreasure",
+			"phase_action",
+			"DestoryStart",
+			"FRAME_COUNT_DESTORY",
+			"mTimer",
+			"TryOpen",
+			"phase_ready_action",
+			"phase_wait",
+			"Object",
+			"is_same_cell_target",
+			"phase_action",
+			"CheckPassable",
+			"phase_ready_move",
+			"CheckObjectExist",
+			"Goal",
+			"phase_ready_action",
+			"CB_Wait_TurnStart",
+			"collectTargetObjects",
+			"CB_Move_PlayerEnd",
+			"phase_ready_action",
+			"phase_ready_move",
+			"phase_wait",
+			"checkStartMove",
+			"AllFinish",
+			"phase_ready_action",
+			"phase_move",
+			"CheckObjectExist",
+			"checkStartMove",
+			"floorData",
+			"setRoom",
+			"phase_ready_action",
+			"phase_ready_move",
+			"phase_ready_action",
+			"phase_wait",
+			"phase_ready_action",
+			"CleanLoad",
+			"RemoveObjectInstance",
+			"PanelObjMap",
+			"updateObjectPosition",
+			"deleteObject",
+			"RemoveObjectInstance",
+			"deleteObject",
+			"phase_ready_action",
+			"phase_wait",
+			"phase_ready_move",
+			"PathNodeF",
+			"mTempObstacle",
+			"mTempObstacleList",
+			"CheckObstacle",
+			"DelAllTempObstacle",
+			"DelObstacle",
+			"AddDynamicObstacle",
+			"isObstacle",
+			"AddDynamicObstacle",
+			"AddStaticObstacle",
+			"phase_ready_action",
+			"Stop",
+			"checkObjTypeByTouch",
+			"phase_ready_move",
+			"phase_wait",
+			"TargetPathMove",
+			"Skill",
+			"phase_ready_action",
+			"DungeonState",
+			"State_Load",
+			"Debug",
+			"State_StartAPI",
+			"Sunrise.Dungeon.API.Response",
+			"Game",
+			"Sunrise.Dungeon.API.Response",
+			"DungeonFloorDataResponse",
+			"PushInfoToInfoBar",
+			"ThrowRequestAPI",
+			"ConvertAPIResponse",
+			"ThrowRequestAPI",
+			"DungeonStartAPI",
+			"CleanLoad",
+			"isObstacle",
+			"Target",
+			"setEnemy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"DungeonFloorDataResponse"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Assets/Scripts/Dungeon/Game/ObjectModule/ObjectService.cs"
+			],
+			[
+				"uicamera",
+				"Assets/NGUI/Scripts/UI/UICamera.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 609.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}
